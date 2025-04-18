@@ -76,7 +76,7 @@ def import_module(
     base_cls: Optional[Type[Any]] = None,
     name_filter: Optional[Callable] = None,
     safe: bool = True,
-) -> List[Any]:
+) -> List[Type[Any]]:
     """
     Import a class from modules within a base package.
 
