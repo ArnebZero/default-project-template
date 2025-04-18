@@ -14,9 +14,9 @@ This project requires Python 3.10 or higher. To install the project, clone the r
 
 ```bash
 # Clone the repository
-git clone <repository_url>
+git clone https://github.com/ArnebZero/default-project-template.git
 # rename project folder
-mv <repository_name> <your_project_name>
+mv default-project-template <your_project_name>
 cd <your_project_name>
 
 # Install dependencies
